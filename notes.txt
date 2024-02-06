@@ -1,0 +1,4 @@
+My experience with git is a little limited.I first started using git near the end of last 
+semester for my programming languages class as part of a group project. since this was my
+first time using git, i felt like there was a huge learning curve. loooking up tutorials and 
+using the interface on visual studio helped alot, but i stitll feel like i have alot to learn.
